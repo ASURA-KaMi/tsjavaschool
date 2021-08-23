@@ -4,12 +4,11 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-import java.util.stream.Collectors;
 
 public class PyramidBuilder {
 
     /**
-     * Builds a pyramid with sorted values (with minumum value at the top line and maximum at the bottom,
+     * Builds a pyramid with sorted values (with minimum value at the top line and maximum at the bottom,
      * from left to right). All vacant positions in the array are zeros.
      *
      * @param inputNumbers to be used in the pyramid
@@ -17,7 +16,6 @@ public class PyramidBuilder {
      * @throws {@link CannotBuildPyramidException} if the pyramid cannot be build with given input
      */
     public int[][] buildPyramid(List<Integer> inputNumbers) {
-        boolean flag = false;
         long count = 0; int columns = 1; int rows = 1;
         int size = inputNumbers.size();
 
