@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Vertola Vsevolod
-* Travis CI [ ![TRAVIS](https://app.travis-ci.com/ASURA-KaMi/tsjavaschool.svg?branch=master&status=failed)](https://app.travis-ci.com/github/ASURA-KaMi/tsjavaschool)
+* Travis CI :    [ ![TRAVIS](https://app.travis-ci.com/ASURA-KaMi/tsjavaschool.svg?branch=master&status=failed)](https://app.travis-ci.com/github/ASURA-KaMi/tsjavaschool)
 
 
 ### How to start?  ###
