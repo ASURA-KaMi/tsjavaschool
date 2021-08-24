@@ -1,8 +1,5 @@
 package com.tsystems.javaschool.tasks.subsequence;
-
-import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 public class Subsequence {
 
